@@ -2,6 +2,16 @@
 
 Welcome to the Apollo Pharmacy Database Chat project! This interactive Streamlit application allows users to query a pharmacy database using natural language. Powered by LangChain and Google's Generative AI, it translates your questions into SQL queries and retrieves the answers from the database. No SQL knowledge required! 🚀
 
+## Demo 🎞📽🎥
+
+
+
+
+https://github.com/user-attachments/assets/16d11e7b-d8aa-4d47-a484-69d55268a1a5
+
+
+
+
 ## 🌟 Features
 
 - **Natural Language Queries:** Ask questions in plain English, and the app will handle the SQL for you.
